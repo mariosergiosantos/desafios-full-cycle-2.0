@@ -1,0 +1,15 @@
+{
+  "name": "desafio-fullcycle",
+  "version": "1.0.0",
+  "description": "mariosergio952/desafio-fullcycle",
+  "main": "src/app/main.js",
+  "scripts": {
+    "start": "node src/app/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mário Sérgio",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
